@@ -1,0 +1,23 @@
+# Java
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+
+# Maven
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+HELP.md
